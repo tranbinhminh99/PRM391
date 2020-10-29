@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FinalProjectPRM391</string>
+    <!-- for login -->
+    <string name="welcome_back">Hello, Welcome Back</string>
+    <string name="notify_sign_in">Sign in to continue</string>
+    <string name="hint_user_name">User name</string>
+    <string name="hint_password">Password</string>
+    <!-- end login -->
 </resources>
